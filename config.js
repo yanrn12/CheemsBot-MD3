@@ -24,26 +24,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.owner = ['6289516947204'] //ur owner number
+global.ownername = "𝚒𝚢𝚊𝚗Ⓒ︎"
+global.ytname = "https://saweria.co/IyanMd " //ur yt chanel name
+global.socialm = "https://saweria.co/IyanMd" //ur github or insta name
+global.location = "Indonesia, Jawa barat, Kota Bekasi" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "𝚁𝙲𝚃𝙸 𝙱𝙾𝚃" //ur bot name
+global.websitex = "https://saweria.co/IyanMd" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.author = "𝚁𝙲𝚃𝙸 𝙱𝙾𝚃"
 global.themeemoji = "📀"
-global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz2 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKASl"
+global.reactmoji = "🥶"
+global.ownertag = ['𝚒𝚢𝚊𝚗Ⓒ︎'] //ur owner tag
+global.ownernummenu = ['6289516947204'] //ur owner number in menu and all
+global.watermark = "𝚁𝙲𝚃𝙸 𝙱𝙾𝚃" //ur watermark
+global.botscript = "https://saweria.co/IyanMd"
+global.linkz1 = "https://saweria.co/IyanMd"
+global.linkz2 = "https://saweria.co/IyanMd"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -93,7 +93,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 200,
     monayawal: 1000
 }
    global.rpg = {
